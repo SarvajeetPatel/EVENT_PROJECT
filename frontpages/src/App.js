@@ -1,6 +1,6 @@
 import './App.css';
 import { Routes, Route } from 'react-router-dom'
-import SignInSide from './components/SignIn';
+import SignInSide from './pages/SignIn';
 
 function App() {
   return (
